@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+build/
+.env*
+!.env.example
+*.log
+.ruff_cache/
+.vscode/
+.idea/
+.DS_Store
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+coverage/
